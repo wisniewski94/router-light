@@ -7,7 +7,7 @@ import{R as c}from"./vendor.9df4b9ca.js";const u=function(){const o=document.cre
 <!-- ABOUT THE PROJECT -->
 <h3>About The Project</h3>
 <p>This is very simple and lightweight routing library intended mostly to be used in vanilla js apps. You can read how it's made here:</p>
-<p><a href="https://deploy-preview-80--funnyavocado.netlify.app/blog/how-to-create-router-library">How to create a router for custom SPA App</a></p>
+<p><a href="https://www.wiktorwisniewski.dev/blog/how-to-create-router-library">How to create a router for custom SPA App</a></p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 <h3>Getting started</h3>
 <p>You can fork or download the plugin from GitHub, or you can install it through npm or bower.</p>
