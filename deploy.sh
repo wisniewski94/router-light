@@ -3,6 +3,7 @@
 set -e
 
 cd docs
+npm install
 npm run build
 
 cd dist
