@@ -1,6 +1,6 @@
 {
   "name": "router-light",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lightweight, routing library for any application",
   "main": "./src/index.js",
   "scripts": {
