@@ -6,7 +6,7 @@
     Lightweight, routing library for any browser application
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://wisniewski94.github.io/router-light">View Demo</a>
     ·
     <a href="https://github.com/wisniewski94/router-light/issues">Report Bug</a>
     ·
