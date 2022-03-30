@@ -29,13 +29,6 @@ header {
   align-items: center;
 }
 
-footer {
-  position:fixed;
-  bottom:0;
-  width: 100%;
-  left: 0;
-}
-
 footer p {
   display: block;
   text-align: center;
@@ -82,4 +75,14 @@ header a:focus, header a:hover {
 
 a:focus, a:hover {
     color: #5e06cd;
+}
+
+pre {
+  background: #efebe4;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+p a, #app a {
+  display: initial;
 }

@@ -10,5 +10,8 @@
   "devDependencies": {
     "vite": "^2.8.0",
     "vite-plugin-markdown": "^2.0.2"
+  },
+  "dependencies": {
+    "router-light": "^1.0.0"
   }
 }
