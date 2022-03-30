@@ -10,7 +10,7 @@
 
 This is very simple and lightweight routing library intended mostly to be used in vanilla js apps. You can read how it's made here:
 
-[How to create a router for custom SPA App](https://deploy-preview-80--funnyavocado.netlify.app/blog/how-to-create-router-library)
+[How to create a router for custom SPA App](https://www.wiktorwisniewski.dev/blog/how-to-create-router-library)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
